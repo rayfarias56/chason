@@ -1,0 +1,32 @@
+{
+  "name": "chason",
+  "version": "1.0.0",
+  "description": "Chason's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayfarias56/chason.git"
+  },
+  "author": "Raymond Farias (rayfarias56)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayfarias56/chason/issues"
+  },
+  "homepage": "https://github.com/rayfarias56/chason",
+  "private": true,
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "node-sass": "^3.13.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express-server": "^0.5.3",
+    "grunt-sass": "^1.2.1"
+  }
+}

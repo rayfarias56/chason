@@ -1,0 +1,21 @@
+{
+  "name": "chason",
+  "version": "1.0",
+  "homepage": "",
+  "authors": [
+    "Raymond Farias"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-3.1.1.min": "https://code.jquery.com/jquery-3.1.1.min.js",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
